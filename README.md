@@ -40,7 +40,7 @@ library-management-system/
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/ashhabquddusi/library-management-system.git
+git clone https://github.com/AshhabQuddusi/Library-Management-System
 cd library-management-system
 ```
 
