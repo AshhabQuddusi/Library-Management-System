@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Python-3.x-blue">
   <img src="https://img.shields.io/badge/Flask-WebApp-black">
   <img src="https://img.shields.io/badge/Status-Completed-green">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
 </p>
 
 ---
